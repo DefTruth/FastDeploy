@@ -104,9 +104,19 @@
 
 ### Android Demo  
 
+#### PicoDet
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/31974251/197168120-7f77fbb7-3850-44f0-b6fa-865a98951226.png">
 
 ![2D9D4CC317D849BF7299D70B8B546C5C](https://user-images.githubusercontent.com/31974251/197169609-bb214af3-d6e7-4433-bb96-1225cddd441c.jpg)   
 
-![088F7DF705E288117B330540A35A3402](https://user-images.githubusercontent.com/31974251/197170082-a2bdd49d-60ea-4df0-af63-18ed898a746e.jpg)
+![088F7DF705E288117B330540A35A3402](https://user-images.githubusercontent.com/31974251/197170082-a2bdd49d-60ea-4df0-af63-18ed898a746e.jpg)  
+
+### PaddleClasModel    
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/31974251/197338597-2c9e1cf0-569b-49b9-a7fb-cdec71921af8.png">
+
+![7E25EAF9F9648B09D8243C119EA9F95D](https://user-images.githubusercontent.com/31974251/197339363-ae7acd5d-88b8-4365-aea5-b27826c6a25f.jpg)
+
+![A24FC8C3D597124690C1AB1F89E4E86D](https://user-images.githubusercontent.com/31974251/197339378-bb30b108-2d77-4b30-981d-d687b6fca8f6.jpg)
+
 
