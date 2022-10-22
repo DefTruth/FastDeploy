@@ -119,4 +119,12 @@
 
 ![A24FC8C3D597124690C1AB1F89E4E86D](https://user-images.githubusercontent.com/31974251/197339378-bb30b108-2d77-4b30-981d-d687b6fca8f6.jpg)
 
+### JNI  
+
+<img width="864" alt="image" src="https://user-images.githubusercontent.com/31974251/197341065-cdf8f626-4bb1-4a57-8d7a-80b382fe994e.png">
+
+<img width="886" alt="image" src="https://user-images.githubusercontent.com/31974251/197341190-b887dec5-fa75-43c9-9ab3-7ead50c0eb45.png">  
+
+<img width="981" alt="image" src="https://user-images.githubusercontent.com/31974251/197341274-e9671bac-9e77-4043-a870-9d5db914586b.png">
+
 
