@@ -135,5 +135,22 @@
   
 ![22](https://user-images.githubusercontent.com/31974251/203217788-53e293cd-7c92-4362-b415-4d65ffabac7c.gif)
   
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/31974251/203257262-71b908ab-bb2b-47d3-9efb-67631687b774.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/31974251/203257262-71b908ab-bb2b-47d3-9efb-67631687b774.png">  
+
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/31974251/203258255-b422d3e2-6004-465f-86b6-9fa61a27c6c2.png">
+
+![classify](https://user-images.githubusercontent.com/31974251/203261658-600bcb09-282b-4cd3-a2f2-2c733a223b03.gif)
+
+![face](https://user-images.githubusercontent.com/31974251/203261714-c74631dd-ec5b-4738-81a3-8dfc496f7547.gif)
+
+![seg](https://user-images.githubusercontent.com/31974251/203267867-7c51b695-65e6-402e-9826-5d6d5864da87.gif)
+
+![detection](https://user-images.githubusercontent.com/31974251/203261763-a7513df7-e0ab-42e5-ad50-79ed7e8c8cd2.gif)
+
+![ocr](https://user-images.githubusercontent.com/31974251/203261817-92cc4fcd-463e-4052-910c-040d586ff4e7.gif)
+
+![Screenshot_20221122_164341_com huawei android launcher](https://user-images.githubusercontent.com/31974251/203267436-ee6306f7-9bf3-4e84-9d21-eb9bada95c74.jpg)
+
+
+![0973B48171E1F8E8D30359C36A8D28E2](https://user-images.githubusercontent.com/31974251/203268599-c94018d8-3683-490a-a5c7-a8136a4fa284.jpg)
 
