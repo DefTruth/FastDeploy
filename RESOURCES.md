@@ -127,4 +127,12 @@
 
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/31974251/197341274-e9671bac-9e77-4043-a870-9d5db914586b.png">
 
+### Android Gif
+
+![11_a](https://user-images.githubusercontent.com/31974251/203217715-3a77ded3-1cf3-4b4d-83f5-233afb83314d.gif)  
+
+![11_b](https://user-images.githubusercontent.com/31974251/203217754-0b894460-c376-4019-aa37-111ec3bf6847.gif)
+  
+![22](https://user-images.githubusercontent.com/31974251/203217788-53e293cd-7c92-4362-b415-4d65ffabac7c.gif)
+  
 
