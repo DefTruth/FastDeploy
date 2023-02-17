@@ -152,5 +152,9 @@
 ![Screenshot_20221122_164341_com huawei android launcher](https://user-images.githubusercontent.com/31974251/203267436-ee6306f7-9bf3-4e84-9d21-eb9bada95c74.jpg)
 
 
-![0973B48171E1F8E8D30359C36A8D28E2](https://user-images.githubusercontent.com/31974251/203268599-c94018d8-3683-490a-a5c7-a8136a4fa284.jpg)
+![0973B48171E1F8E8D30359C36A8D28E2](https://user-images.githubusercontent.com/31974251/203268599-c94018d8-3683-490a-a5c7-a8136a4fa284.jpg)  
+
+## FD框架图  
+<img width="2113" alt="FD框架图" src="https://user-images.githubusercontent.com/31974251/219546373-c02f24b7-2222-4ad4-9b43-42b8122b898f.png">
+
 
