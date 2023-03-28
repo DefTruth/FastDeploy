@@ -13,6 +13,7 @@ def parse_arguments():
         "--image", type=str, required=True, help="Path of test image file.")
     return parser.parse_args()
 
+args = parse_arguments()
 
 runtime_option = fd.RuntimeOption()
 runtime_option.use_ascend()
