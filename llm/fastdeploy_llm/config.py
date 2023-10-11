@@ -82,8 +82,22 @@ class Config:
                 os.path.join(model_dir, "config.json")))
         with open(os.path.join(model_dir, "config.json")) as f:
             config = json.loads(f.read())
-        self.num_layers = config["num_hidden_layers"]
-        self.num_attention_heads = config["num_attention_heads"]
+        if "num_hidden_layers" in config:
+            self.num_layers = config["num_hidden_layers"]
+        elif "n_layer" in config:
+            self.num_layers = config["n_layer"]
+        else:
+            raise Exception("Cannot find num layers in {}.".format(
+                os.path.join(model_dir, "config.json")))
+
+        if "num_attention_heads" in config:
+            self.num_attention_heads = config["num_attention_heads"]
+        elif "n_head" in config:
+            self.num_attention_heads = config["n_head"]
+        else:
+            raise Exception("Cannot find num_attention_hjeads in {}.".format(
+                os.path.join(model_dir, "config.json")))
+
         self.hidden_size = int(config["hidden_size"])
 
         self.eos_token_id = set([int(config["eos_token_id"])])
@@ -93,6 +107,9 @@ class Config:
         self.model_prompt_dir_path = config.get("prompt_dir_path",
                                                 "./prompt_embedding")
         self.max_prefix_len = config.get("max_prefix_len", 128)
+
+    def is_arch(self, arch):
+        return arch in self.architecture
 
     def load_environment_variables(self):
         # If environment variables are set, override the value in configuration file
